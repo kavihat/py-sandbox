@@ -1,4 +1,4 @@
-# Program to print the count of a number as well as the number when an input number is given.
+# Program to encode number based on digit count
 # It should be done without converting input to string or by using any string functions
 
 
