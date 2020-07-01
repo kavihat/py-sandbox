@@ -1,3 +1,5 @@
+# Implementation of linked list in Python
+# Add, display and remove method for singly linked list created
 class node:
     def __init__(self, data, next=None):
         self.data = data
