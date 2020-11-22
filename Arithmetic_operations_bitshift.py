@@ -1,4 +1,4 @@
-# # Multiplication without using *
+ # Multiplication without using *
 def multiply(num1,num2):
     result=0
     for i in range(num2):
@@ -65,7 +65,7 @@ a=2
 b=5
 print(add(a,b))
 
-#
+#subtract
 
 def subtract(a,b):
     if b>a:
